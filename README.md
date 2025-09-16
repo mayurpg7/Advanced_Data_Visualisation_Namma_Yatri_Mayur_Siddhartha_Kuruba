@@ -1,6 +1,6 @@
 # Advanced_Data_Visualisation_Namma_Yatri_Mayur_Siddhartha_Kuruba
 
-Namma Yatri Data Analysis & Dashboard
+Namma Yatri Data Analysis & Dashboard:
 This project is part of a Data Visualization & Analytics assignment and focuses on analyzing ride-hailing data from Namma Yatri to extract operational insights, identify business challenges, and recommend strategies for growth. The project uses Power BI for data modeling, visualization, and storytelling.
 
 📁 Project Files:
