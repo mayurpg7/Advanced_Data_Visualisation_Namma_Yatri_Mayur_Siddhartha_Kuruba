@@ -4,11 +4,12 @@ Namma Yatri Data Analysis & Dashboard:
 This project is part of a Data Visualization & Analytics assignment and focuses on analyzing ride-hailing data from Namma Yatri to extract operational insights, identify business challenges, and recommend strategies for growth. The project uses Power BI for data modeling, visualization, and storytelling.
 
 📁 Project Files:
-nammayatri.xlsx – Raw dataset containing 5 related tables
-Technical_Leadership_PPT.pptx – Detailed methodology, technical analysis, and recommendations
-Management_Leadership_PPT.pptx – High-level strategic insights for business decision-making
-Methodology_Report.docx – Step-by-step report with data prep, EDA, and insights
-NammaYatri.pbix – Interactive Power BI dashboard
+
+1. nammayatri.xlsx – Raw dataset containing 5 related tables
+2. Technical_Leadership_PPT.pptx – Detailed methodology, technical analysis, and recommendations
+3. Management_Leadership_PPT.pptx – High-level strategic insights for business decision-making
+4. Methodology_Report.docx – Step-by-step report with data prep, EDA, and insights
+5. NammaYatri.pbix – Interactive Power BI dashboard
 
 🧠 Objective:
 
